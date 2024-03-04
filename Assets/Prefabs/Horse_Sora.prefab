@@ -225,7 +225,7 @@ GameObject:
   - component: {fileID: 6371113157652899342}
   - component: {fileID: 1628833125172212385}
   m_Layer: 0
-  m_Name: Ojo (1)
+  m_Name: Eye (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -903,7 +903,7 @@ GameObject:
   - component: {fileID: 4850599588451507522}
   - component: {fileID: 2491793064071446084}
   m_Layer: 0
-  m_Name: Ojo
+  m_Name: Eye
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
